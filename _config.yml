@@ -1,5 +1,13 @@
 title: Your awesome title
 lang: en
 description: Write an awesome description for your new site here
+baseurl: "/demo2" # the subpath of your site, e.g. /blog
+url: "https://nliptak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: pmarsceill/just-the-docs
+
+search_enabled: false
+
+back_to_top: false
+
+gh_edit_link: false # show or hide edit this page link
